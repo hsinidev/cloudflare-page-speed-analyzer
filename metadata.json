@@ -1,0 +1,5 @@
+{
+  "name": "Cloudflare Page Speed Analyzer",
+  "description": "A free, powerful web application to analyze any website's performance. Get instant insights on Core Web Vitals (LCP, FCP, CLS), view historical trend data, and track test history. Powered by a simulated Cloudflare Speed API for accurate, real-world metrics.",
+  "requestFramePermissions": []
+}
