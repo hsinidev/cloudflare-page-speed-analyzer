@@ -1,6 +1,6 @@
 # 🚀 Cloudflare Page Speed Analyzer
 
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-SitemapGenerator.doodax.com-cyan?style=for-the-badge&logo=rocket)](https://SitemapGenerator.doodax.com)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-SitemapGenerator.doodax.com-cyan?style=for-the-badge&logo=rocket)](https://doodax.com/tools/cloudflare-page-speed-analyzer/index.html)
 
 A high-performance, SEO-optimized web application designed to analyze website metrics and Core Web Vitals (LCP, FCP, CLS). Built with modern web technologies, this tool simulates the **Cloudflare Speed API** to provide instant, actionable insights for developers and marketers.
 
